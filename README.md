@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-tiwari-4192b8206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-tiwari-4192b8206/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-tiwari-4192b8206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danurag23/" height="30" width="40" /></a>
 <a href="https://instagram.com/danurag23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danurag23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/danurag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="danurag" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/d_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d_anurag" height="30" width="40" /></a>
