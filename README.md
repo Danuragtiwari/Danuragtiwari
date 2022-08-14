@@ -1,93 +1,36 @@
+<h1 align="center">Hi 👋, I'm ANURAG TIWARI</h1>
+<h3 align="center">An ECE guys,Exploring Technology and Stuffs!</h3>
 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danuragtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="danuragtiwari" /> </p>
 
-### <div align="center">I'm Anurag Tiwari, An ECE guys exploring Technology and Stuffs! 🚀</div>  
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danuragtiwari" alt="danuragtiwari" /></a> </p>
 
-- 🌱 I’m currently Pursuing Bachelors From SLIET,Longowal  
-  
+- 👨‍💻 All of my projects are available at [#Danuragtiwari](#Danuragtiwari)
 
-- ❓ Ask me about anything related to Python,Django,Frontend and related technologies  
-  
+- 💬 Ask me about **Frontend,Web Dev,Django**
 
-- ⚡ Fun fact: I use tabs over spaces😂😂😂😂  
-  
+- 📫 How to reach me **www.anuragtiwari23@gmail.com**
 
-<br/>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danuragtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="danuragtiwari" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/danurag23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danurag23/" height="30" width="40" /></a>
+<a href="https://instagram.com/danurag23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danurag23" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/danurag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="danurag" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/danurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danurag" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/d_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d_anurag" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@danurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@danurag" height="30" width="40" /></a>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danuragtiwari" alt="danuragtiwari" /></a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danurag23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danurag23" /></a></p><br><br>
 
-## SKIILS  
-<table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danuragtiwari&show_icons=true&locale=en" alt="danuragtiwari" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
 
- 
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-</div>
-
-
-
-
-</table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danurag23/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/danurag23/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Danuragtiwari" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=Danuragtiwari&show_icons=true&count_private=true&hide_border=true" align="left" /> </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
-
-
-
- </div>
- <div align="center">
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
-
-  </div>
-
-
-
-
-  
-
-
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danurag23" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-
-
-----
 
