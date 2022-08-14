@@ -29,14 +29,14 @@
 <br>
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danuragtiwari&show_icons=true&locale=en" alt="danuragtiwari" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=danuragtiwari&show_icons=true&locale=en" alt="danuragtiwari"  width='500px'/></p>
 
-<p> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
+<p align="center"> &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" width='500px'/></p>
+<p  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari"  width='500px'/></p>
   </div>
 
 <br>
 
 <hr>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/danurag23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danurag23" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/danurag23"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210px" alt="https://www.buymeacoffee.com/danurag23" /></a></p>
