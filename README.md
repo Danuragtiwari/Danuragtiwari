@@ -63,12 +63,14 @@
 
 ## Github Stats  
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=Danuragtiwari&show_icons=true&count_private=true&hide_border=true" align="left" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
 
 
 
+ </div>
+ <div align="center">
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
   </div>
 
 
