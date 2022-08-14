@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Anurag Tiwari, An ECE guys exploring Technology and Stuffs! 🚀</div>  
@@ -16,14 +14,17 @@
   
 
 <br/>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danuragtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="danuragtiwari" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danuragtiwari" alt="danuragtiwari" /></a> </p>
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## SKIILS  
+<table>
 
 
 
-### Frontend  
+ 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
@@ -35,15 +36,10 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
@@ -66,9 +62,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Danuragtiwari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><p><img src="https://github-readme-stats.vercel.app/api?username=Danuragtiwari&show_icons=true&count_private=true&hide_border=true" align="left" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" /></p>
 
-<br/>  
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari" /></p>
+  </div>
+
 
 
 
