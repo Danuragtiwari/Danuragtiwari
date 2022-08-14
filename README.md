@@ -71,18 +71,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
-<br/>  
 
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danurag23" target="_blank" style="display: inline-block;">
@@ -91,7 +83,7 @@
                     align="center"
                 />
             </a></div>
-<br />
+
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
