@@ -40,5 +40,10 @@
 <br>
 
 <hr>
+<h3 align="left">Badges:
+<p align="center">
+<img  src="https://www.holopin.io/api/user/board?user=Danurag" alt="danuragtiwari"  width='500px'/
+<p></h3> 
+
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/danurag23"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210px" alt="https://www.buymeacoffee.com/danurag23" /></a></p>
