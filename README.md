@@ -31,10 +31,10 @@
 <br>
 
 <div>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=danuragtiwari&show_icons=true&locale=en" alt="danuragtiwari"  width='500px'/></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats-beryl.vercel.app/api?username=Danuragtiwari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Danuragtiwari"  width='500px'/></p>
 
-<p align="center"> &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=danuragtiwari&" alt="danuragtiwari" width='500px'/></p>
-<p  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=danuragtiwari&show_icons=true&locale=en&layout=compact" alt="danuragtiwari"  width='500px'/></p>
+<p align="center"> &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Danuragtiwari&" alt="Danuragtiwari" width='500px'/></p>
+<p  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Danuragtiwari&show_icons=true&locale=en&layout=compact" alt="Danuragtiwari"  width='500px'/></p>
   </div>
 
 <br>
