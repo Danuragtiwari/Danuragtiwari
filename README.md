@@ -1,5 +1,5 @@
 <h1 align="center">Hi 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm ANURAG TIWARI</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm ANURAG TIWARI </h1>
 <h3 align="center">An ECE guys,Exploring Technology and Stuffs!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danuragtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="danuragtiwari" /> </p>
