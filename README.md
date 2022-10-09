@@ -42,7 +42,7 @@
 <hr>
 <h3 align="left">Badges:
 <p align="center">
-<img  src="https://www.holopin.io/api/user/board?user=Danurag" alt="danuragtiwari"  width='500px'/
+<img  src="https://holopin.io/api/user/board?user=Danurag" alt="danuragtiwari"  width='500px'/
 <p></h3> 
 
 <h3 align="left">Support:</h3>
