@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [#Danuragtiwari](#Danuragtiwari)
 
-- 💬 Ask me about **Frontend,Web Dev,Django, and web scraping(beautifulsoup)**
+- 💬 Ask me about **Frontend,Web Dev,Django,MySql and web scraping(beautifulsoup)**
 
 - 📫 How to reach me **www.anuragtiwari23@gmail.com**
 
