@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danurag23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danurag23/" height="30" width="40" /></a>
-<a href="https://instagram.com/danurag23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danurag23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/danurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danurag" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/d_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="d_anurag" height="30" width="40" /></a>
-<a href="https://leetcode.com/Danurag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="d_anurag" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danurag23/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/danurag23/" height="30" width="40" /></a>
+<a href="https://instagram.com/danurag23" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="danurag23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/danurag" target="blank"><img align="center" src="https://vectorwiki.com/images/gfcQJ__hackerrank.svg" alt="danurag" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/d_anurag" target="blank"><img align="center" src="https://shorturl.at/gmB39" alt="d_anurag" height="30" width="40" /></a>
+<a href="https://leetcode.com/Danurag/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" alt="d_anurag" height="30" width="40" /></a>
 
 </p>
 
