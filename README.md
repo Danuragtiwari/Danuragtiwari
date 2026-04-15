@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer · Backend Focused · LeetCode Knight 🗡️</h3>
+<h3 align="center">🚀 Full Stack Developer · Backend Focused ·</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Danuragtiwari&label=Profile%20Views&color=f97316&style=for-the-badge" alt="profile views"/>
@@ -95,15 +95,7 @@ public class Anurag extends Developer {
 
 ---
 
-## 🏆 LeetCode — Knight 🗡️
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Danurag?theme=dark&font=Nunito&ext=heatmap" width="500"/>
-</p>
-
-> Solved **500+** problems · Topics: **DP · Graphs · Trees · Arrays · Sliding Window · Binary Search**
-
----
 
 ## 📊 GitHub Stats
 
